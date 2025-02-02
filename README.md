@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+STUDENT GRADE CALCULATOR 🎯
 
 
 ## Basic Details
@@ -45,13 +45,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 https://drive.google.com/drive/folders/1SPdBfoJeKLIXH7w87DbttnT19-Dv6yoZ?usp=sharing
+![ss1](https://github.com/user-attachments/assets/31f76212-493c-424a-b364-a50dd97b95d8)
 
 https://drive.google.com/drive/folders/1SPdBfoJeKLIXH7w87DbttnT19-Dv6yoZ?usp=sharing
-
+![ss2](https://github.com/user-attachments/assets/9aae7ffe-efdc-49b4-9800-765375e69e63)
 https://drive.google.com/drive/folders/1SPdBfoJeKLIXH7w87DbttnT19-Dv6yoZ?usp=sharing
+![ss3](https://github.com/user-attachments/assets/1d7f2b1c-f875-4211-8d97-966fe8919a5b)
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+![Workflow](Add your wor
+kflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 For Hardware:
