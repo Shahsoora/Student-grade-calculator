@@ -9,7 +9,7 @@
 Sreenandana Babu : College of Engineering Munnar
 Fathimath Shahsoora : College of Engineering Munnar
 ### Hosted Project Link
-[mention your project hosted project link here]
+(https://student-grade-calculator-snowy.vercel.app/)
 
 ### Project Description
 This student grade calculator project, implemented in JavaScript, calculates a student's performance based on their scores in five subjects and their attendance percentage. The user inputs scores for Distributed Computing, Internet of Things, Data Mining, Network Security Protocols, and an additional subject, along with their attendance percentage. The script validates the attendance, ensuring it's between 0 and 100. It then calculates the total score out of 750 and the corresponding percentage. Based on the percentage, the student is assigned a grade of `S`, `A+`, `B+`, or `F`. If the attendance is below 75%, the calculator displays a warning, indicating that low attendance may affect the final result. The pass or fail status depends on achieving a minimum percentage of 39.5% and maintaining at least 75% attendance. The final output includes the student's total score, percentage, grade, and attendance status. This project effectively combines academic performance and attendance to provide a comprehensive evaluation of student progress.
